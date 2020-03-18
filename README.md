@@ -43,3 +43,5 @@ A list of status pages
 * [GitHub Status API](https://status.github.com/api) 
 * [GitLab System Status](https://status.gitlab.com)
 
+## Backup Solutions
+* [Barracuda Networks](https://status.barracuda.com/)
