@@ -6,6 +6,7 @@ A list of status pages
 * [Internet Traffic Report](http://www.internettrafficreport.com/)
 * [Down Detector - Xfinity / Comcast](https://downdetector.com/status/comcast-xfinity/map/)
 * [Down Detector - Spectrum](https://downdetector.com/status/spectrum/map/)
+* [Solarwinds Live Map](https://livemap.pingdom.com/)
 
 ## Teleconferencing
 
