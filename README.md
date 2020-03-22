@@ -4,9 +4,23 @@ A list of status pages
 ## General Internet 
 
 * [Internet Traffic Report](http://www.internettrafficreport.com/)
-* [Down Detector - Xfinity / Comcast](https://downdetector.com/status/comcast-xfinity/map/)
-* [Down Detector - Spectrum](https://downdetector.com/status/spectrum/map/)
 * [Solarwinds Live Map](https://livemap.pingdom.com/)
+
+## ISPs
+
+* [Down Detector - AT&T](https://downdetector.com/status/att/)
+* [Down Detector - CenturyLink](https://downdetector.com/status/centurylink/)
+* [Down Detector - Comcast / Xfinity](https://downdetector.com/status/comcast-xfinity/map/)
+* [Down Detector - Cox](https://downdetector.com/status/cox-communications/)
+* [Down Detector - Optimum Cablevision](https://downdetector.com/status/optimum-cablevision/)
+* [Down Detector - RCN](https://downdetector.com/status/rcn/)
+* [Down Detector - Spectrum](https://downdetector.com/status/spectrum/map/)
+* [Down Detector - SoCal Edison (SCE)](https://downdetector.com/status/sce/)
+* [Down Detector - Sprint](https://downdetector.com/status/sprint/)
+* [Down Detector - Suddenlink](https://downdetector.com/status/suddenlink-communications/)
+* [Down Detector - T-Mobile](https://downdetector.com/status/t-mobile/)
+* [Down Detector - Verizon](https://downdetector.com/status/verizon/)
+
 
 ## Teleconferencing
 
